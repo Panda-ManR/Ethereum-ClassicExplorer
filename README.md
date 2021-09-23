@@ -2,13 +2,7 @@
 
 <b>Live Version: [https://explorer.hadeschain.org](https://explorer.hadeschain.org)</b>
 
-Follow the project progress at: [HadesChain Explorer Development](https://github.com/hadeschain/explorer)
-
 ## Local installation
-
-Clone the repo
-
-`git clone https://github.com/hadeschain/explorer`
 
 Download [Nodejs and npm](https://docs.npmjs.com/getting-started/installing-node "Nodejs install") if you don't have them
 
